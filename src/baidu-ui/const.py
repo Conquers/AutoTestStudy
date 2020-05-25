@@ -1,0 +1,1 @@
+EXCEL_DIR="D:\git_study\datadata/search_query.xlsx"
